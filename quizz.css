@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    font-size: 1.5em;
+    background-color: #a6e2f6;
+}
+
+.header {
+    color : #2a3443;
+    height: 25%;
+    margin-top: 10%;
+}
+
+input {
+    width: 45%;
+}
+
+label{
+    color: #3644af;
+    margin-bottom: 20px;
+    margin-top: 50px;
+}
